@@ -44,15 +44,15 @@ A suíte de testes é composta por um conjunto de testes automatizados que garan
 
 Além das métricas de automação de testes de software para garantir a qualidade funcional do software, também existem métricas para avaliar os atributos de qualidade não funcionais do software. Essas métricas podem incluir:
 
-- Desempenho: Mede a capacidade do software de processar uma grande quantidade de dados em um curto período de tempo. As métricas de desempenho podem incluir tempo de resposta, tempo de carregamento, tempo de processamento e outras.
+- **Desempenho:** Mede a capacidade do software de processar uma grande quantidade de dados em um curto período de tempo. As métricas de desempenho podem incluir tempo de resposta, tempo de carregamento, tempo de processamento e outras.
 
-- Carga: Mede a capacidade do software de lidar com um grande número de usuários simultâneos. As métricas de carga podem incluir o número máximo de usuários que o software pode lidar, o tempo de resposta sob carga e outros.
+- **Carga:** Mede a capacidade do software de lidar com um grande número de usuários simultâneos. As métricas de carga podem incluir o número máximo de usuários que o software pode lidar, o tempo de resposta sob carga e outros.
 
-- Estresse: Mede a capacidade do software de lidar com situações extremas ou inesperadas, como falhas no hardware, interrupções de rede, etc. As métricas de estresse podem incluir o tempo de recuperação do software após uma falha, a capacidade de restaurar o estado anterior do software e outras.
+- **Estresse:** Mede a capacidade do software de lidar com situações extremas ou inesperadas, como falhas no hardware, interrupções de rede, etc. As métricas de estresse podem incluir o tempo de recuperação do software após uma falha, a capacidade de restaurar o estado anterior do software e outras.
 
-- Segurança: Mede a capacidade do software de proteger os dados do usuário e prevenir ataques maliciosos. As métricas de segurança podem incluir a taxa de vulnerabilidades encontradas, o tempo necessário para corrigir as vulnerabilidades e outras.
+- **Segurança:** Mede a capacidade do software de proteger os dados do usuário e prevenir ataques maliciosos. As métricas de segurança podem incluir a taxa de vulnerabilidades encontradas, o tempo necessário para corrigir as vulnerabilidades e outras.
 
-- Acessibilidade: Mede a capacidade do software de ser acessível para usuários com deficiências físicas ou sensoriais. As métricas de acessibilidade podem incluir a conformidade com as diretrizes de acessibilidade, o tempo necessário para corrigir as não conformidades e outras.
+- **Acessibilidade:** Mede a capacidade do software de ser acessível para usuários com deficiências físicas ou sensoriais. As métricas de acessibilidade podem incluir a conformidade com as diretrizes de acessibilidade, o tempo necessário para corrigir as não conformidades e outras.
 
 Ao medir essas métricas, a equipe de teste pode avaliar a qualidade do software em relação aos requisitos de qualidade não funcionais. As métricas podem ser usadas para identificar áreas críticas do software que precisam de mais atenção e melhorias para atender aos requisitos de qualidade não funcionais.
 
