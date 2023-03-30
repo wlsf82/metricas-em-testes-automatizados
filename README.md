@@ -22,11 +22,11 @@ Os testes flaky são aqueles que às vezes passam e às vezes falham, sem que ha
 
 ### Percentual de Bugs Encontrados Depois de um Certo Período de Tempo (ex.: uma nova release)
 
-O percentual de bugs encontrados depois de um certo período de tempo é uma métrica importante porque ela ajuda a avaliar a eficácia dos testes automatizados ao longo do tempo. Se o percentual de bugs encontrados depois de uma nova release for alto, isso pode indicar que os testes não foram suficientemente rigorosos ou que o processo de desenvolvimento não é tão bom quanto poderia ser.
+O percentual de bugs encontrados depois de um certo período de tempo é uma métrica importante porque ela ajuda a avaliar a eficácia dos testes automatizados ao longo do tempo. Se o percentual de bugs encontrados depois de uma nova release for alto, isso pode indicar que o processo de desenvolvimento não é tão bom quanto poderia ser.
 
 ### Percentual de Regressões Depois de um Certo Período de Tempo (ex.: uma nova release)
 
-A regressão ocorre quando uma nova versão do software é lançada e introduz um bug em uma funcionalidade anteriormente funcionando corretamente. O percentual de regressões depois de um certo período de tempo é uma métrica importante porque ajuda a avaliar a capacidade dos testes automatizados de identificar problemas em versões subsequentes do software. Se o percentual de regressões for alto, isso pode indicar que os testes não foram capazes de identificar adequadamente as mudanças na nova versão do software ou que o processo de desenvolvimento não está atendendo às necessidades de qualidade do software.
+A regressão ocorre quando uma nova versão do software é lançada e introduz um bug em uma funcionalidade anteriormente funcionando corretamente. O percentual de regressões depois de um certo período de tempo é uma métrica importante porque ajuda a avaliar a capacidade dos testes automatizados de identificar problemas em versões subsequentes do software. Se o percentual de regressões for alto, isso pode indicar que o processo de desenvolvimento não está atendendo às necessidades de qualidade do software.
 
 ### Quais Testes São Mais Lentos e Podem Ser Otimizados?
 
