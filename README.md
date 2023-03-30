@@ -54,7 +54,7 @@ Além das métricas de automação de testes de software para garantir a qualida
 
 - **Acessibilidade:** Mede a capacidade do software de ser acessível para usuários com deficiências físicas ou sensoriais. As métricas de acessibilidade podem incluir a conformidade com as diretrizes de acessibilidade, o tempo necessário para corrigir as não conformidades e outras.
 
-Ao medir essas métricas, a equipe de teste pode avaliar a qualidade do software em relação aos requisitos de qualidade não funcionais. As métricas podem ser usadas para identificar áreas críticas do software que precisam de mais atenção e melhorias para atender aos requisitos de qualidade não funcionais.
+Ao medir essas métricas, a equipe de teste pode avaliar a qualidade do software em relação aos requisitos de qualidade não funcionais e usá-las para identificar áreas críticas do software que precisam de mais atenção e melhorias.
 
 ### Conclusão
 
